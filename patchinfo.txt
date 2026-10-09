@@ -1,2 +1,3 @@
 ABuse.dll 070b2fbcba28cc9a4b42590184c11c0ff00aa50c
+DataTable\Item.edf d0dcdfe5a31b18f3578c99359cd527acfd2eeb36
 SpriteImage\en-ph\item.spr 439bb3fbc9de3df32ae188cc9eeeea79ba8035ad
