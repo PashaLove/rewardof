@@ -1,5 +1,8 @@
 ABuse.dll 070b2fbcba28cc9a4b42590184c11c0ff00aa50c
 d3d9.dll b8e9f1e8e064eb35985577835a7e1ee28004a3df
-DataTable\Item.edf a81c2c8869e84fe9c5267bad3b110b503dfcf0c9
+DataTable\Character.edf f320fe4ee465476a04a9f9285d31c173daaa7038
+DataTable\en-ph\NDItem.edf 5eddceaa863b7ce8413c57aed7fd85d0e59cf9f5
+DataTable\Item.edf 6f4ccf7150bbafc35afd317ecf59e962e69034ff
+DataTable\Resource.edf 8cd43a5c4afa76f9c588085078600de6e77ac457
 SpriteImage\common\emblem.spr dc6b7f6b43f18495901bd174c6a3cbaea99967a7
 SpriteImage\en-ph\item.spr 439bb3fbc9de3df32ae188cc9eeeea79ba8035ad
