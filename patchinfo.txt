@@ -1,4 +1,5 @@
 ABuse.dll 070b2fbcba28cc9a4b42590184c11c0ff00aa50c
+Character\Player\Ani\ACCRETIA_RANGE_DesperationLauncher_SIEGEKITLC_00.ANI c11d0173f0103dc6ac5bfbee2b71a1955f5e7f4a
 d3d9.dll b8e9f1e8e064eb35985577835a7e1ee28004a3df
 DataTable\Character.edf f320fe4ee465476a04a9f9285d31c173daaa7038
 DataTable\en-ph\ChatCommand.ini ce5e1174a5fefa1bff4c325a10d2071480d03293
