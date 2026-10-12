@@ -8,4 +8,4 @@ DataTable\Item.edf 6f4ccf7150bbafc35afd317ecf59e962e69034ff
 DataTable\Resource.edf 8cd43a5c4afa76f9c588085078600de6e77ac457
 SpriteImage\common\emblem.spr dc6b7f6b43f18495901bd174c6a3cbaea99967a7
 SpriteImage\en-ph\inventory.spr 22f560b3807da0eaf92966ce93959d3568474a99
-SpriteImage\en-ph\item.spr 5eaca11e2838e9c796d403cc14732fbb85d87e95
+SpriteImage\en-ph\item.spr 4b38afb8cf28eaadf525188a064233376a74d134
