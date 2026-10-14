@@ -7,5 +7,5 @@ DataTable\en-ph\NDItem.edf 5eddceaa863b7ce8413c57aed7fd85d0e59cf9f5
 DataTable\Item.edf 6f4ccf7150bbafc35afd317ecf59e962e69034ff
 DataTable\Resource.edf 8cd43a5c4afa76f9c588085078600de6e77ac457
 SpriteImage\common\emblem.spr dc6b7f6b43f18495901bd174c6a3cbaea99967a7
-SpriteImage\en-ph\inventory.spr 22f560b3807da0eaf92966ce93959d3568474a99
+SpriteImage\en-ph\inventory.spr b1b578e8f5bce59ff0a4c202832fd430d0156d50
 SpriteImage\en-ph\item.spr e1812b22b4d272af1e4a83112ef10188bf53d091
