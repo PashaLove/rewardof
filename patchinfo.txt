@@ -5,7 +5,7 @@ DataTable\Character.edf f320fe4ee465476a04a9f9285d31c173daaa7038
 DataTable\en-ph\ChatCommand.ini f5657c1c3572776b5c331c630a99234b31d81bd7
 DataTable\en-ph\NDItem.edf 16271c73d7bcda91d3fff5f3973f9c90c4550c8c
 DataTable\en-ph\NDItemCash.edf 34715b44c4d05194e539a6254c13231cc7bfe3a5
-DataTable\Item.edf 0783c934b9987809b248078f5e7b6fe444084629
+DataTable\Item.edf 014e558f5d103d343571b908bc0a1c58d5ba22a5
 DataTable\ItemCash.edf 605d77e86dec551aaa19ba3f12763b208ef6172c
 DataTable\Resource.edf 8cd43a5c4afa76f9c588085078600de6e77ac457
 DataTable\Store.edf e5bbfaecbf5c1ce19513d81a8f45b19e4dfcf2f5
