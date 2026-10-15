@@ -8,6 +8,7 @@ DataTable\en-ph\NDItemCash.edf 34715b44c4d05194e539a6254c13231cc7bfe3a5
 DataTable\Item.edf 0783c934b9987809b248078f5e7b6fe444084629
 DataTable\ItemCash.edf 605d77e86dec551aaa19ba3f12763b208ef6172c
 DataTable\Resource.edf 8cd43a5c4afa76f9c588085078600de6e77ac457
+DataTable\Store.edf e5bbfaecbf5c1ce19513d81a8f45b19e4dfcf2f5
 SpriteImage\common\emblem.spr dc6b7f6b43f18495901bd174c6a3cbaea99967a7
 SpriteImage\en-ph\inventory.spr b1b578e8f5bce59ff0a4c202832fd430d0156d50
 SpriteImage\en-ph\item.spr b69a32d282e46ec79a8ef85001c812460f91173f
