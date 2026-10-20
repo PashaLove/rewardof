@@ -181,7 +181,7 @@ DataTable\en-ph\KeyMap_NKM.dat 5d576a820ea4414d34817816c202ee952ae5b2b8
 DataTable\en-ph\NDCharacter.edf 1f62bf45b4d1904b5ccb42beeb409d086de9d95c
 DataTable\en-ph\NDItem.edf 16271c73d7bcda91d3fff5f3973f9c90c4550c8c
 DataTable\en-ph\NDItemCash.edf 34715b44c4d05194e539a6254c13231cc7bfe3a5
-DataTable\Item.edf c8375bd47249c7b1d4d3570917935c9314a08ecf
+DataTable\Item.edf f965020b311c1fc56c49695594b1396e24fefcb6
 DataTable\ItemCash.edf 605d77e86dec551aaa19ba3f12763b208ef6172c
 DataTable\ItemCombine.edf cf560ac49749b665cf791bf5a7b04ab0928dbdb4
 DataTable\Resource.edf 1a781740d1dff79c1c42dfefde1e017d7a8945f9
