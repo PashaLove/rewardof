@@ -335,7 +335,7 @@ SpriteImage\common\Loading\SETTE2.dds 3cbe99281368f7f4a3ace7be1f653d501ce90eca
 SpriteImage\common\Loading\transition.dds f45a8402a3acdb68b660151be87661e6a1a57beb
 SpriteImage\common\Loading\TRANSPORT01.dds 7539150a02ef827a219ddb5396f3ab1ad9c47719
 SpriteImage\common\Loading\Wounded_Land.dds 8879c20cd9fbd1d043d068693c6154a8cc0b87a8
-SpriteImage\en-ph\inventory.spr 1c7782722f035633da5775877a3bd757ed7d3009
+SpriteImage\en-ph\inventory.spr 547f7e2249ab9810932954aa3468743f25348953
 SpriteImage\en-ph\item.spr 61f0249dc7487046438be5efa6b5888184fc3411
 SpriteImage\en-ph\itemupgrade.spr 39c9c1c429644e1b6b62e07a4bca75c3980bb66a
 SpriteImage\en-ph\journal.spr 6f2e9190358c4aa8fd97e743357a80742d9d2936
