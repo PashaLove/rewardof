@@ -180,10 +180,10 @@ DataTable\en-ph\ChatCommand.ini f5657c1c3572776b5c331c630a99234b31d81bd7
 DataTable\en-ph\KeyMap.dat 5d576a820ea4414d34817816c202ee952ae5b2b8
 DataTable\en-ph\KeyMap_NKM.dat 5d576a820ea4414d34817816c202ee952ae5b2b8
 DataTable\en-ph\NDCharacter.edf b9732c8dc666cb93223f5e660690304e8141a012
-DataTable\en-ph\NDItem.edf dcd1130ace3700fd346c1ec3794405d5a4ae9c6f
+DataTable\en-ph\NDItem.edf c0a51e2c3fec6af8cfd2f9f988fc48f57df70437
 DataTable\en-ph\NDItemCash.edf c2bb68e0e56dc57eeff2fac59309f42db6045f20
 DataTable\en-ph\NDMap.edf 3c6264e28ccebac16d82a21824b865a7da301102
-DataTable\Item.edf 24b813e002f72625c956dcc59ed1bbcda177ba35
+DataTable\Item.edf 044d4ab75848b73e9fdd6e7e0f2a251d2bc9c914
 DataTable\ItemCash.edf c913253714011a9980fcec46d67f3b1eb0358872
 DataTable\ItemCombine.edf cf560ac49749b665cf791bf5a7b04ab0928dbdb4
 DataTable\ItemSetEffect.edf 8747ab2503caeec7ef9fc8b191445625013c4a0f
