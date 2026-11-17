@@ -177,6 +177,7 @@ Chef\EffectFileList.txt 8518765c634d9e3caafb7495653c35dac1fb3eac
 d3d9.dll b8e9f1e8e064eb35985577835a7e1ee28004a3df
 DataTable\Character.edf 430b5881d95728ff8fd840e6f0dcd7b70845f584
 DataTable\en-ph\ChatCommand.ini f5657c1c3572776b5c331c630a99234b31d81bd7
+DataTable\en-ph\KeyMap.dat 949817af7928440e9361630f1a9ad4930b6a979d
 DataTable\en-ph\NDCharacter.edf b9732c8dc666cb93223f5e660690304e8141a012
 DataTable\en-ph\NDItem.edf c0a51e2c3fec6af8cfd2f9f988fc48f57df70437
 DataTable\en-ph\NDItemCash.edf c2bb68e0e56dc57eeff2fac59309f42db6045f20
